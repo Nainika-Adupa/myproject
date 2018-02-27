@@ -1,3 +1,3 @@
 FROM project
-COPY myproject/
+COPY myproject/ .
 CMD ["/myproject"]
