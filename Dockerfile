@@ -1,3 +1,3 @@
-FROM project
+FROM hello-world
 COPY myproject/ .
 CMD ["/myproject"]
